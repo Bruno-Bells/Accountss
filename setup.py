@@ -1,4 +1,5 @@
-from setuptools import Extension
+#from setuptools import Extension
+from pip._internal.commands import WheelCommand
 from subzero import Executable, setup
 
 setup(
