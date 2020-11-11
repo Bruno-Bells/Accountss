@@ -1,7 +1,5 @@
-#from setuptools import Extension
-# from pip._internal.commands import WheelCommand
-from subzero import setup
-# from subzero import Executable, setup
+# from distutils.core import setup
+from setuptools import setup
 
 setup(
     dependency_links=['https://github.com/Bruno-Odinukweze/Accountss/tarball/master#egg=Accountss']
