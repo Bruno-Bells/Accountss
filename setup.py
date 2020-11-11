@@ -1,5 +1,3 @@
 setup(
-    ...
-    dependency_link=['https://github.com/Bruno-Odinukweze/Accountss/tarball/master#egg=Accountss']
-    ...
+    install_requires=['https://github.com/Bruno-Odinukweze/Accountss/tarball/master#egg=Accountss']
 )
