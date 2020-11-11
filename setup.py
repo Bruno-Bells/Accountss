@@ -1,5 +1,5 @@
 setup(
     ...
-    dependency_links=['https://github.com/Bruno-Odinukweze/Accountss.git#egg=Accountss']
+    dependency_links=['https://github.com/Bruno-Odinukweze/Accountss/tarball/master#egg=Accountss']
     ...
 )
