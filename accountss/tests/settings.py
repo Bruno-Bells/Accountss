@@ -6,7 +6,8 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.sites",
     "django.contrib.messages",
-    "accountss",
+    'accountss.apps.accountssConfig',
+    #"accountss",
     "accountss.tests",
 ]
 DATABASES = {
